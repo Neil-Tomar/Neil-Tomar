@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learner
 -------
 
-*   🧠  I'm learning Coding
+*   🧠  I'm learning Coding /n
  I use Arch btw.
 <h1>Skills</h1>
 <p align="left">
